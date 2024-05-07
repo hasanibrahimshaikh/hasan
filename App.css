@@ -1,0 +1,229 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("data:image/jpeg;base64,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");
+  background-size: cover;
+  background-position: center;
+}
+
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-image: "";
+}
+
+.navbar {
+  background-color: #2c3e50; /* Dark blue */
+  color: #ffffff; /* White text */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px; /* Increased padding */
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar__brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar__logo {
+  color: #ffffff; /* White */
+  text-decoration: none;
+}
+
+.navbar__links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar__item {
+  margin-left: 20px;
+}
+
+.navbar__link {
+  color: #ffffff; /* White */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.navbar__link:hover {
+  color: #3498db; /* Light blue on hover */
+}
+
+
+/* Page styles */
+.page-container {
+  padding: 20px;
+}
+
+/* Form styles */
+.form-container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.form-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-button {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form-button:hover {
+  background-color: #0056b3;
+}
+
+nav {
+  background-color: #e0f5a7;
+  color: #fff;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin-right: 20px;
+}
+
+li:last-child {
+  margin-right: 0;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+/* Container styles */
+.register-container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+/* Form styles */
+.register-form {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Form header styles */
+.register-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Form input styles */
+.register-input {
+  display: block;
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Form button styles */
+.register-button {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Form button hover styles */
+.register-button:hover {
+  background-color: #0056b3;
+}
+
+.home {
+ text-align: center;
+  padding: 50px;
+  background-color: #f0f0f0;
+  margin-top: 50px; /* Adjust this value to control the vertical positioning */
+}
+
+.home h2 {
+  text-align: center;
+  font-size: 24px;
+  color: #222020;
+}
+
+.home p {
+  text-align: center;
+  font-size: 18px;
+  color: #242323;
+}
+
+nav ul {
+  text-align: center;
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  text-align: center;
+  display: inline;
+  margin: 0 10px;
+ 
+  color: #0056b3;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #960707; /* Link color */
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
